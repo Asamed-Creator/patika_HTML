@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+    
+
+</html>
+
+
+<body>
+<h1>Abdüssamed Söğüt</h1>
+
+<!-- CTRL Ö KISAYOLU  İLE YORUM SATIRI YAPIYOR -->
+
+<!-- 
+ACIKLAMA SATIRLARINI BOL BOL KULLANIN
+NOTLARI BURALARA ALIN  -->
+
+<h2>Hakkımda</h2>
+<p>Halihazırda üniversite öğrencisi olarak öğrenimime devam ediyorum. Son birkaç gündür "Yenilikçinin İkilemi" kitabını okuyorum.</p>
+
+<h3>Yenilikçinin İkilemi Hakkında</h3>
+
+<p>Kitap, köklü şirketlerin yıkıcı teknolojilerle mücadelesini konu alıyor. Endüstrilerinin en büyük şirketleri olmalarına rağmen</p>
+<p>birçok şirketin yıkıcı teknolojiler karşısında nasıl tökezlediğini ve yeni şirketlere nasıl pazar payı kaybettiklerini konu alıyor.</p>
+
+
+<img src="images/2.jpg" title="Lorem Picsum Photo">
+
+<hr>
+
+
+
+<a href="images/2.jpg" >Lorem Pictum Photo</a>
+
+
+
+
+<h2>Beğendiğim Eserler </h2>
+<ol>
+     <li>Kitaplar
+        <ul>
+        <li>Bu Ülke - Cemil Meriç</li>
+
+        <li>Kırmızı Çizgi - James Barr  <a href="https://www.goodreads.com/book/show/12121296-a-line-in-the-sand" target="_blank" >Goodreads</a></li>
+
+        <li>Saatleri Ayarlama Enstitüsü - Ahmet Hamdi Tanpınar</li>
+        </ul>
+    </li> 
+    
+    <li>
+        Filmler
+        <ul><li>Interstellar  <a href="https://www.imdb.com/title/tt0816692/" target= "_blank">Imdb</a>  </li>
+            <li>Ayla</li>
+            <li>Gora</li>
+        </ul>
+    </li>
+    
+    <li>
+        Diziler
+        <ul>
+        <li>Kurtlar Vadisi</li>
+        <li>Ezel</li>
+        <li>Masumlar Apartmanı</li>
+        </ul>
+    </li> 
+
+    
+</ol>
+
+
+
+
+</body>
